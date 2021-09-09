@@ -1,0 +1,6 @@
+
+²python:S1515P"’Add a parameter to the parent lambda function and use variable "j" as its default value; The value of "j" might change at the next loop iteration.(¢Û“É8¹ëÊª¼/
+±python:S1515O"’Add a parameter to the parent lambda function and use variable "j" as its default value; The value of "j" might change at the next loop iteration.(à‚İ8Ç®Ëª¼/
+Mpython:S1481B")Remove the unused local variable "value".(Î¢³·üÿÿÿÿ8¯âšª¼/
+·python:S1515Q"’Add a parameter to the parent lambda function and use variable "j" as its default value; The value of "j" might change at the next loop iteration.(¶œæòüÿÿÿÿ8Ç®Ëª¼/
+·python:S1515R"’Add a parameter to the parent lambda function and use variable "j" as its default value; The value of "j" might change at the next loop iteration.(Ï‚İúÿÿÿÿ8ÄËª¼/
